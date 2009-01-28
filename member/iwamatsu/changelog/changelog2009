@@ -1,3 +1,21 @@
+2009-01-28 20:37:06  Nobuhiro Iwamatsu
+
+	* ttf-hanazono をアップデートした。
+	* NM のメールを送った。
+	* github にリポジトリを作った。
+	* 前田さんにawesome について熱く語ってみた。
+	* vloopback, dv4l をアップロード依頼した。
+
+2009-01-28 19:07:05  Nobuhiro Iwamatsu
+
+	* 今日のTODO 
+	  - github にリポジトリを作成する。
+	  - reject されたパッケージのメンテナンスする。
+	  - NM のメールを送る。
+	* github にリポジトリを作成した。
+	* 前田さんを追加。
+	* vlooopback パッケージを修正。コンパイル中。
+
 2009-01-28 18:57:43  Nobuhiro Iwamatsu
 
 	* 今日は新宿のグッドタイムでハックです。
