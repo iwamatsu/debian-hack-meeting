@@ -3,7 +3,13 @@
 	* 本日のToDo
 	* github にアカウント作る。
 	* emacs のchangelogモードに慣れる。
+	  -> 下記を参考にした。
+  	  http://pop-club.hp.infoseek.co.jp/emacs/changelog.html
 	* git の操作に慣れる。
+	  -> man マニュアルと下記サイトを参考にした。
+	  http://www8.atwiki.jp/git_jp/pub/Documentation.ja/tutorial.html
 	* 某サイトの記事原稿を仕上げる。
+	　-> 終わらず。
 	* Let's note用のhotkey utilityのdebパッケージのアップデート。
-
+	  -> controlの調整と必要パッケージのインストールで終了。
+	* Bluetooth を使えるようにしておく。（宿題）
