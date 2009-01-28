@@ -1,0 +1,6 @@
+filetype plugin on
+
+let g:changelog_timeformat = "%Y-%m-%d %H:%M:%S"
+let g:changelog_username = "Nobuhiro Iwamatsu"
+
+と書いて、コマンドモードで \o を入力するとchangelog モードになる。
