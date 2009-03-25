@@ -1,3 +1,31 @@
+2009-03-18 21:20:05  Nobuhiro Iwamatsu
+
+	* 今日は、新宿のカフェで作業。前田さんといっしょ。
+	  電源とネットワークがある。電源は奥だけ。
+	  ネットワークは essid FREESPOT を設定して、dhcpd でOK.
+	  key はいらない。2時間一本勝負。
+	* isight-firmware-tools のアップデートをした。
+	* guvcview のアップデートをした。
+	  CDBS では、config.status があると、ビルドがうまくいかない。
+	  これはアップストリームに報告した。
+	* 
+
+2009-03-11 21:14:43  Nobuhiro Iwamatsu
+
+	* 今日は一人でサイバックで作業。
+
+2009-03-04 20:11:57  Nobuhiro Iwamatsu
+
+	* 今日は中野のインターネットカフェ サイバックで作業。
+	  http://www.cybac.com/information/nakano/index.html
+	  ネットワークもある。適当に iwlist で検索してパスワードはテーブルに
+	  書いてあるものを指定する。
+	* 値段は600円。4時間飲み放題。ソフトクリームも食べ放題。
+	  ソフトクリームうねうねマシンを初体験した。
+	* 電源もある。タップがいる。
+	* 前田さんと Debconf の打ち合わせをした。
+	* isight-firmware-tools のアップデートをした。
+
 2009-02-25 20:44:17  Nobuhiro Iwamatsu
 
 	* ゲームしている人がおおい
