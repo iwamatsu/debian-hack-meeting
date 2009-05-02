@@ -1,0 +1,28 @@
+2009-03-25 19:29:55  Takuma Yamada
+
+	* 今日は、新宿のカフェで作業。岩松さんと前田さんといっしょ。
+	翻訳ピカイチで翻訳作業を始めてみる。
+	dpkg - 機械翻訳、man dpkg は英語。
+	gzip - 機械翻訳、man gzip は日本語。
+	やまねさん登場。
+	DDTSS(ja)でPending reviewを作業する。
+	uqwk - Collect news & mail messages for offline reading
+
+2009-04-01 19:05:55  Takuma Yamada
+
+	* 今日は、新宿のカフェで作業。
+	参加者: 岩松さん、前田さん、やまねさん、私
+	18:50 に到着。誰も見当たらないので 19:05 に入店。
+	その後、誰も 3F に来ないのでひとりで作業開始。
+	電源、無料の無線 LAN はなし。
+	最近の po-debconf 査読 (debian-doc ML) を機械翻訳にかけてみた。
+	dictd の po-debconf 訳
+	tmpreaper の po-debconf 訳
+	(module-assistant (m-a) の po は長いのでスキップ)
+	pdnsd の po-debconf 訳
+	aolserver4 の po-debconf 訳
+	結論: 鍛えないとデフォルトのままでは使えません。
+	DDTP のレビュー (uqwk) 作業の続き。
+	20:30 に 1F に下りると前田さん、岩松さん、やまねさんがいた。
+	やまねさんに翻訳作業の期待値を確認。微妙。
+
