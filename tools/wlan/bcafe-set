@@ -1,0 +1,4 @@
+#!/bin/sh
+# wlan setup scripts for BLUE SQUARE CAFE
+iwconfig wlan0 essid "BLUE SQUARE CAFE" key s:bcafe
+dhclient
